@@ -1,0 +1,21 @@
+{
+  "name": "task-manager",
+  "description": "Task manager implements Angular Material Design",
+  "main": "index.js",
+  "authors": [
+    "Lyovkin Anatoliy"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "^1.0.9",
+    "angular-material-icons": "^0.7.1"
+  }
+}
